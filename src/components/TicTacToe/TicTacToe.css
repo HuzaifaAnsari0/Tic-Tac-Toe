@@ -44,8 +44,7 @@
 
 .board{
     height: 350px;
-    width: 564px;
-    margin-left: 435px;
+    justify-content:center;
     display: flex;
 }
 
