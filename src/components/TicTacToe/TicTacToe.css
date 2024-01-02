@@ -14,7 +14,6 @@
 
 .title span{
     color: #26ffcb;
-    padding-left: 15px;
 }
 
 .reset{
@@ -44,8 +43,7 @@
 
 .board{
     height: 350px;
-    width: 564px;
-    margin-left: 435px;
+    justify-content: center;
     display: flex;
 }
 
@@ -62,6 +60,5 @@
     font-family: italic;
     font-size: 13px;
     color:aliceblue;
-    margin-left: 970px;
     margin-top: 20px;
 }
